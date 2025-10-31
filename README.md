@@ -21,6 +21,7 @@ Use historical **aviation accident data (1962–2023)** to identify the **safest
 
 ### Business Value
 The analysis supports **data-driven decisions**, reduces **risk exposure**, and helps the company **invest in safer, more reliable aircraft**.
+
 ##  Data Understanding
 
 The dataset from the **Aviation_Data.csv** covers aviation accidents from **1962–2023**, including details like aircraft make, model, weather, and flight phase.
@@ -28,6 +29,11 @@ The dataset from the **Aviation_Data.csv** covers aviation accidents from **1962
 **Overview**
 - Thousands of records across 60+ years.   
 - Useful columns for safety and risk analysis.  
+
+**Tableau Link**
+
+https://public.tableau.com/app/profile/ivy.cheptim5975/viz/avaitionaccidentsdata1/TopAircraftManufacturers
+
 
 ## Exploratory Data Analysis (EDA)
 
@@ -41,7 +47,7 @@ Exploratory analysis was conducted to identify key patterns and trends in aviati
 
 **Visualization 1**
 
-![Alt text](images/Top12aircraftManufacturerbyTotalAccident.png)
+![alt text](<images/Top 12 aircraft Manufacturer by Total Accident.png>)
 
 ## Interpretation: Top 12 Aircraft Makes by Event Count
 
@@ -53,7 +59,7 @@ Exploratory analysis was conducted to identify key patterns and trends in aviati
 
 **Visualization 2**
 
-![Alt text](images/AccidentbyPhaseofFlight.png)
+![alt text](<images/Accident by Phase of Flight.png>)
 
 ### Accidents by Phase of Flight
 
@@ -69,7 +75,9 @@ The chart above shows the distribution of aviation accidents across different fl
 These results align with aviation safety research, which shows that most accidents occur during **critical flight phases** — specifically takeoff and landing — where pilot workload and risk are highest. This suggests that **safety training, equipment maintenance, and automation improvements** during these phases could significantly reduce accident rates.
 
 **Visualization 3**
-![Alt text](images/AviationAccidentTrendsovertime.png)
+
+![alt text](<images/Aviation Accident Trends over time.png>)
+
 
 # Interpretation**
  The trend shows how accident reporting or actual accident frequency has changed over time. "
@@ -77,7 +85,7 @@ These results align with aviation safety research, which shows that most acciden
 
 **Visualization 4**
 
-![Alt text](images/AccidentsbyAircraftcategory.png)
+![alt text](<images/Accidents by .Aircraft Category or Type.png>)
 
  ###  Interpretation: Accidents by Aircraft Category
 
