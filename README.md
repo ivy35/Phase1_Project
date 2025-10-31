@@ -40,7 +40,8 @@ Exploratory analysis was conducted to identify key patterns and trends in aviati
 - Some **manufacturers** showed consistently lower fatality rates.
 
 **Visualization 1**
-![Alt text](images/Top 12 aircraft Manufacturer by Total Accident.png)
+
+![Alt text](images/Top12aircraftManufacturerbyTotalAccident.png)
 
 ## Interpretation: Top 12 Aircraft Makes by Event Count
 
@@ -52,7 +53,7 @@ Exploratory analysis was conducted to identify key patterns and trends in aviati
 
 **Visualization 2**
 
-![Alt text](images/Accident by Phase of Flight.png)
+![Alt text](images/AccidentbyPhaseofFlight.png)
 
 ### Accidents by Phase of Flight
 
@@ -68,7 +69,7 @@ The chart above shows the distribution of aviation accidents across different fl
 These results align with aviation safety research, which shows that most accidents occur during **critical flight phases** — specifically takeoff and landing — where pilot workload and risk are highest. This suggests that **safety training, equipment maintenance, and automation improvements** during these phases could significantly reduce accident rates.
 
 **Visualization 3**
-![Alt text](images/Aviation Accident Trends over time.png)
+![Alt text](images/AviationAccidentTrendsovertime.png)
 
 # Interpretation**
  The trend shows how accident reporting or actual accident frequency has changed over time. "
@@ -76,7 +77,7 @@ These results align with aviation safety research, which shows that most acciden
 
 **Visualization 4**
 
-![Alt text](images/Accidents by Aircraft category.png)
+![Alt text](images/AccidentsbyAircraftcategory.png)
 
  ###  Interpretation: Accidents by Aircraft Category
 
