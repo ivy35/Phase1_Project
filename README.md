@@ -59,7 +59,7 @@ Exploratory analysis was conducted to identify key patterns and trends in aviati
 
 **Visualization 2**
 
-![alt text](<images/Accident by Phase of Flight.png>)
+![alt text](<images/C:\Users\KEN18237\Documents\Aviationproject\Phase1_Project\images\Accident by Phase of flight.png.png>)
 
 ### Accidents by Phase of Flight
 
