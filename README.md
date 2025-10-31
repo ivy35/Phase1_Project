@@ -47,7 +47,7 @@ Exploratory analysis was conducted to identify key patterns and trends in aviati
 
 **Visualization 1**
 
-![alt text](<images/Top 12 aircraft Manufacturer by Total Accident.png>)
+![alt text](<images/Top 12 Aircraft Manufacturer by Total Accident.png>)
 
 ## Interpretation: Top 12 Aircraft Makes by Event Count
 
@@ -59,7 +59,7 @@ Exploratory analysis was conducted to identify key patterns and trends in aviati
 
 **Visualization 2**
 
-![alt text](<images/C:\Users\KEN18237\Documents\Aviationproject\Phase1_Project\images\Accident by Phase of flight.png.png>)
+![alt text](<images/Accident by Phase of flight.png.png>)
 
 ### Accidents by Phase of Flight
 
