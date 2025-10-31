@@ -1,6 +1,6 @@
 #  **Aviation Accident Analysis — Phase 1 Project**
 > *A Data-Driven Approach to Evaluating Aircraft Safety using the CRISP-DM Framework*
-C:\Users\KEN18237\Documents\Aviationproject\Phase1_Project\images\airplane.png
+![Alt text](images/airplane.png)
 ##  Business Understanding
 
 The company plans to expand into the **aviation industry** by purchasing and operating airplanes for commercial and private services. However, there is limited understanding of **aircraft safety risks**, which could lead to poor investment choices and operational losses.
