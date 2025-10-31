@@ -21,3 +21,22 @@ Use historical **aviation accident data (1962–2023)** to identify the **safest
 
 ### Business Value
 The analysis supports **data-driven decisions**, reduces **risk exposure**, and helps the company **invest in safer, more reliable aircraft**.
+##  Data Understanding
+
+The dataset from the **Aviation_Data.csv** covers aviation accidents from **1962–2023**, including details like aircraft make, model, weather, and flight phase.
+
+**Overview**
+- Thousands of records across 60+ years.   
+- Useful columns for safety and risk analysis.  
+
+## Exploratory Data Analysis (EDA)
+
+Exploratory analysis was conducted to identify key patterns and trends in aviation accidents.
+
+**Key Insights**
+- Most accidents occurred under **clear weather (VMC)**, suggesting human or mechanical causes.  
+- **Takeoff and landing** were the riskiest flight phases.  
+- Accident rates have **declined over time**, reflecting safety improvements.  
+- Some **manufacturers** showed consistently lower fatality rates.
+
+**Next Step:** Perform deeper analysis and visualizations to support business recommendations.
