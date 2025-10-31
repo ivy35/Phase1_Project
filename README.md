@@ -59,7 +59,7 @@ Exploratory analysis was conducted to identify key patterns and trends in aviati
 
 **Visualization 2**
 
-![alt text](<images/Accidents by Phase of flight.png>)
+![alt text](<images\Accident by Phase.png>)
 
 ### Accidents by Phase of Flight
 The chart above shows the distribution of aviation accidents across different flight phases.  
